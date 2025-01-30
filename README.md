@@ -8,4 +8,3 @@ Dave was here
 __( :  )|_ dkm
 ``` 
 
-(trying to understand how this works)
