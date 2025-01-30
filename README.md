@@ -8,4 +8,4 @@ Dave was here
 __( :  )|_ dkm
 ``` 
 
-aaa
+entendiendo esto...
