@@ -19,5 +19,6 @@ Measures the percentage of young people who graduate from secondary education in
 ### Youth Unemployment Rate:
 Measures the level of unemployment among young people, a key variable in relation to crime.
 
-
+---
 # (I'M STILL WORKING ON THIS!)
+(Basically I'm analysing the databases I have to see if I can reach what I'm planning)
