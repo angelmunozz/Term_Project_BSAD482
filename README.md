@@ -21,4 +21,4 @@ Measures the level of unemployment among young people, a key variable in relatio
 
 ---
 # (I'M STILL WORKING ON THIS!)
-(Basically I'm analysing the databases I have to see if I can reach what I'm planning)
+(Basically I'm analysing the databases I have to see if I can reach what I'm planning, this means the objectives could change through the time.)
