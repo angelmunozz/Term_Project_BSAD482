@@ -18,3 +18,6 @@ Measures the budget allocated for education in each region of Ecuador.
 Measures the percentage of young people who graduate from secondary education in different regions.
 ### Youth Unemployment Rate:
 Measures the level of unemployment among young people, a key variable in relation to crime.
+
+
+# (I'M STILL WORKING ON THIS!)
