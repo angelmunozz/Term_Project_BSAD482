@@ -40,4 +40,6 @@ Description: This dataset includes information about intentional homicides of th
 URL: (https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015)
 
 
+---
 # (I'M STILL WORKING ON THIS!)
+(Basically I'm analysing the databases I have to see if I can reach what I'm planning, this means the objectives could change through the time.)
