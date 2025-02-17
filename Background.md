@@ -28,27 +28,16 @@ This study is important because it will help understand the connection between p
 ---
 ### Datasets:
 
-<mark>Use APA format https://columbiacollege-ca.libguides.com/apa/websites</mark>
-Here are three relevant datasets for this analysis:
+## References  
 
-**INEC: National Survey on Living Conditions (Poverty)**  
-Description: This dataset provides detailed information on poverty in Ecuador, broken down by region and population type.  
-URL: (https://www.ecuadorencifras.gob.ec/pobreza-por-ingresos/)
+Instituto Nacional de Estadística y Censos. (n.d.). *Pobreza por ingresos*. INEC Ecuador. Retrieved February 17, 2025, from [https://www.ecuadorencifras.gob.ec/pobreza-por-ingresos/](https://www.ecuadorencifras.gob.ec/pobreza-por-ingresos/)  
 
+Fiscalía General del Estado de Ecuador. (n.d.). *Observatorio de criminalidad: Número de homicidios*. OECO. Retrieved February 17, 2025, from [https://oeco.padf.org/visualizador-de-datos-numero-de-homicidios/](https://oeco.padf.org/visualizador-de-datos-numero-de-homicidios/)  
 
-**Observatory of Criminality by the Attorney General’s Office of Ecuador**  
-Description: This dataset contains detailed statistics on crime in Ecuador, including types of crimes and crime rates by region.  
-URL: (https://oeco.padf.org/visualizador-de-datos-numero-de-homicidios/)
+Ministerio de Educación del Ecuador. (n.d.). *Gasto público en educación en Ecuador*. Datosmacro. Retrieved February 17, 2025, from [https://datosmacro.expansion.com/estado/gasto/educacion/ecuador](https://datosmacro.expansion.com/estado/gasto/educacion/ecuador)  
 
+World Bank Group. (n.d.). *Intentional homicides (per 100,000 people) - Ecuador*. The World Bank. Retrieved February 17, 2025, from [https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015](https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015)  
 
-**Ministry of Education of Ecuador: Educational Statistics**  
-Description: This dataset includes information on education investment of the country. Expansion: Ecuador - Gasto público Educación  
-URL: (https://datosmacro.expansion.com/estado/gasto/educacion/ecuador)
-
-
-**World Bank Group - Intentional homicides in Ecuador**  
-Description: This dataset includes information about intentional homicides of the country.  
-URL: (https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015)
 
 
 ---
