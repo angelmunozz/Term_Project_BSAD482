@@ -36,7 +36,3 @@ Ministerio de Educación del Ecuador. (n.d.). *Gasto público en educación en E
 World Bank Group. (n.d.). *Intentional homicides (per 100,000 people) - Ecuador*. The World Bank. Retrieved February 17, 2025, from [https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015](https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015)  
 
 
-
----
-# (I'M STILL WORKING ON THIS!)
-(Basically I'm analysing the databases I have to see if I can reach what I'm planning, this means the objectives could change through the time.)
