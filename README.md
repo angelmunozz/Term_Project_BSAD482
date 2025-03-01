@@ -21,15 +21,28 @@ Provides direct insight into where crime is most prevalent, allowing policymaker
 Technical Detail:
 * Frequency: Monthly
 * Range: Whole number, between 0 and 100.
-* Time Period: 1970-2024
+* Time Period: 2008-2024
 
 
-### Poverty Rate by Region:
-Analyzes the percentage of people living in poverty, broken down by region.
-### Education Investment by Region:
-Measures the budget allocated for education in each region of Ecuador.
-### Secondary School Graduation Rate:
-Measures the percentage of young people who graduate from secondary education in different regions.
+### Poverty due to Unsatisfied Basic Needs:
+Analyzes the percentage of people living in poverty, broken down by national, urban and rural sectors. 
+
+Poverty due to Unsatisfied Basic Needs.- A person is poor due to unsatisfied basic needs if he or she belongs to a household that presents deficiencies in the satisfaction of at least one of its basic needs represented in five components:
+1. Quality of housing 
+2. Overcrowding
+3. Access to basic services
+4. Access to education 
+5. Economic capacity
+
+Technical Detail:
+* Frequency: Anually
+* Range: Percentage, between 0 and 100.
+* Time Period: 2008-2024
+
+### Education Investment:
+Measures the budget allocated for education Ecuador. Analyzing the percentage of the total expenditure in Education.
+### School Registration Rate:
+Measures the percentage of people who register for education in different regions.
 ### Youth Unemployment Rate:
 Measures the level of unemployment among young people, a key variable in relation to crime.
 
