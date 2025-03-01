@@ -12,17 +12,22 @@ For more details, please refer to the [Background.md](Background.md).
 ## Key Performance Indicators (KPIs)
 Here are the 5 KPIs that will be used to measure the impact of poverty and education on crime rates:
 
-### Crime Rate by Region:
+### Crime Rate by Province:
 <mark>Consider expanding these with a paragraph to each KPI that emphasizes the value of understanding that KPI. For example, I'll propose the first one</mark> 
 
-Provides direct insight into where crime is most prevalent, allowing policymakers and community leaders to identify hotspots of insecurity. By comparing crime statistics across different areas, stakeholders can correlate high crime regions with other factors such as poverty levels and inadequate education funding. Consequently, this measure not only highlights the immediate challenges in public safety but also serves as a starting point for deeper investigations into underlying issues.
+Provides direct insight into where crime is most prevalent, allowing policymakers and community leaders to identify hotspots of insecurity. By comparing crime statistics across different provinces, stakeholders can correlate high crime regions with other factors such as poverty levels and inadequate education funding. Consequently, this measure not only highlights the immediate challenges in public safety but also serves as a starting point for deeper investigations into underlying issues.
 
-~~Measures the number of crimes reported in different areas of Ecuador.~~
+#### Homicides by Province
 Technical Detail:
-* Frequency: Monthly
-* Range: Whole number, between 0 and 100.
-* Time Period: 2008-2024
+* Frequency: Anually
+* Range: Whole number, between 0 and 10,000.
+* Time Period: 2019-2024
 
+#### Prisioners by Province
+Technical Detail:
+* Frequency: Anually
+* Range: Whole number, between 51 and 14,616.
+* Time Period: 2024-2025
 
 ### Poverty due to Unsatisfied Basic Needs:
 Analyzes the percentage of people living in poverty, broken down by national, urban and rural sectors. 
