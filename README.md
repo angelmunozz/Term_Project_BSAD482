@@ -59,6 +59,18 @@ Here are the 5 KPIs that will be used to measure the impact of poverty and educa
 ---
 
 # Analysis
+![Crime Rates](https://github.com/user-attachments/assets/8e9ae190-8058-4342-90c0-2d3d92bb2b8b)
+![Poverty Rates](https://github.com/user-attachments/assets/1d51d7f6-0142-4cf6-b53b-64634a339620)
+![Education Investment   Homicides](https://github.com/user-attachments/assets/af84b65a-ba3d-465f-a048-5acee1e59df0)
+![School Register Rate](https://github.com/user-attachments/assets/5b87bba1-bdbb-4247-8ddc-d3a3779cd097)
+![Rural   Urban School Register Rate](https://github.com/user-attachments/assets/6e7eba63-b601-402c-827c-cc15c197a301)
+![Academic Registers, Education Expenditure   N of Homicides](https://github.com/user-attachments/assets/9178bf61-9d9a-4505-8ad3-c897ea3117c6)
 
+
+**Click to view on Tableau Public:**
+
+<a href="https://public.tableau.com/views/WaterScarcity_17394071173560/WaterStressLevel](https://public.tableau.com/app/profile/angel.munoz7314/viz/TermProjectVisualizations/TheInterplayPovertyEducationCrime?publish=yes">
+    <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" alt="View on Tableau Public" height="80" >
+</a>
 
 
