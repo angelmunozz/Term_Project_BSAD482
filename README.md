@@ -69,7 +69,7 @@ Here are the 5 KPIs that will be used to measure the impact of poverty and educa
 
 **Click to view on Tableau Public:**
 
-<a href="https://public.tableau.com/views/WaterScarcity_17394071173560/WaterStressLevel](https://public.tableau.com/app/profile/angel.munoz7314/viz/TermProjectVisualizations/TheInterplayPovertyEducationCrime?publish=yes">
+<a href="https://public.tableau.com/views/TermProjectVisualizations/TheInterplayPovertyEducationCrime?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="https://www.tableau.com/sites/default/files/blog/tableautips_30.png" alt="View on Tableau Public" height="80" >
 </a>
 
