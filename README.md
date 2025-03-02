@@ -7,7 +7,7 @@ This project addresses the issue of crime in Ecuador, aiming to understand the r
 
 The project is based on the premise that improving education in the most disadvantaged regions can have a positive impact on reducing crime. Through data analysis and the creation of visualizations, the project will offer evidence-based recommendations for public policy.
 
-For more details, please refer to the [Background.md](Background.md).
+[Read detailed background information here](Background.md)
 
 ## Key Performance Indicators (KPIs)
 Here are the 5 KPIs that will be used to measure the impact of poverty and education on crime rates:
