@@ -36,6 +36,7 @@
   - Retained only records of Ecuadorian students.
   - Column names were translated from Spanish to English.
 
-For more details, please refer to the file [Term Project Databases.tfl](Code/Term%20Project%20Databases.tfl).
+To view these changes, please refer to the Tableau Prep flow file [Term Project Databases.tfl](Code/Term%20Project%20Databases.tfl).
+
 
 
