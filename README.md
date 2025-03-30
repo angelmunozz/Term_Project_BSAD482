@@ -96,3 +96,67 @@ The graphs show a decreasing trend in academic registrations in Ecuador from 200
 </a>
 
 
+---
+# Causal Inference & Correlation Analysis
+### Casual Model:
+![Casual Model](img/casual_model_termproject.png)
+
+Analyzing the causal model along with the heat map, we can interpret that:
+
+**1. Direct Relationships:**
+- Education investment directly influences total students and poverty levels
+Total students also has an impact on poverty levels
+Poverty levels have a direct effect on murders
+
+**2. Flow Interpretation:**
+- Education investment and total students act as initial variables influencing poverty
+- Poverty acts as a mediating variable between education/students and murders
+- Murders are the final outcome in this causal chain
+
+**3. Model Implications:**
+- Suggests that education investment could indirectly reduce murders through its effect on poverty
+- Increased student population could have a similar effect
+- Poverty appears as the crucial factor directly influencing murders
+
+
+### Heat Map:
+![(Heat Map](img/heatmap_termproject.png)
+
+Analyzing the heat map, we can observe the following important relationships:
+**1. Education Investment:**
+- Shows a strong positive correlation (0.77) with total students, suggesting that higher investment correlates with more registered students
+- Surprisingly, has a high correlation (0.79) with poverty levels, which might indicate that more investment is being directed to areas with greater need
+
+**2. Poverty:**
+- Has a moderate-high correlation (0.70) with murders, suggesting that areas with more poverty tend to have more violence
+- Shows a moderate correlation (0.56) with total students
+
+**3. Murders:**
+- Shows a weak correlation (0.28) with education investment, suggesting that other factors have greater influence on violence
+- Has a weak negative correlation (-0.18) with total students, indicating a slight tendency for fewer murders where there are more students
+
+
+This information suggests that although there is investment in education in high-poverty areas, this doesn't necessarily translate into an immediate reduction in violence, possibly due to other unmeasured socioeconomic and external factors not included in this analysis.
+
+---
+# **Results:** 
+*Estimated effect:* 0.22132796780687158
+
+*New effect:* 0.20565280287141632
+
+*p value:* 0.78
+
+
+### Causal Relationship: 
+A 1% increase in the poverty percentage causes an increase of approximately 0.221 murders per year, adjusting for education investment and total students. 
+This supports your hypothesis that poverty contributes to more violence.
+
+Real Impact:
+- For a small change (1% more poverty), the increase is fractional (0.221 murders), but for larger changes (e.g., 5% or 10%), the effect accumulates:
+    - 5% more poverty → 5 × 0.221 = 1.105 additional murders per year
+    - 10% more poverty → 10 × 0.221 = 2.21 additional murders per year
+
+
+# Conclusion
+The causal analysis reveals that an increase in poverty levels has a direct and positive impact on the annual number of murders. Specifically, for every 1% increase in the poverty percentage (measured as % of KPI), there are approximately 0.221 additional murders per year, adjusting for education investment and total students. This effect is robust, as evidenced by the data subset refutation, which shows a minimal variation (from 0.221 to 0.206) with a p-value of 0.78, indicating result stability. In practical terms, a 10% increase in poverty would lead to 2.21 more murders per year per unit of analysis (e.g., province). These findings confirm that poverty is a significant factor contributing to increased violence, supporting the hypothesis that adverse socioeconomic conditions are linked to higher murder rates.
+
