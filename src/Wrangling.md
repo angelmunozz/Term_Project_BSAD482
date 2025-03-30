@@ -39,3 +39,9 @@
 To view these changes, please refer to the Tableau Prep flow file [Term Project Databases.tfl](Code/Term%20Project%20Databases.tfl).
 
 
+---
+[Home](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md)
+
+[Background](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/Background.md)
+
+[Table of Contents](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/T.Contents.md)
