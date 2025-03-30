@@ -40,9 +40,9 @@ To view these changes, please refer to the Tableau Prep flow file [Term Project 
 
 
 ---
-[Home](README.md)
+[Home](main/README.md)
 
-[Background](Background.md)
+[Background](main/Background.md)
 
-[Table of Contents](T.Contents.md)
+[Table of Contents](main/T.Contents.md)
 
