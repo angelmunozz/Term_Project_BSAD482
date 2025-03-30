@@ -10,7 +10,7 @@
 - [3.1 Crime Rate Analysis](README.md#crime-rates)
 - [3.2 Poverty Trends Analysis](README.md#poverty-rates)
 - [3.3 Education Investment x Homicides](README.md#education-investment-x-homicides)
-- [3.4 School Registrater Rates](README.md#/L50)
+- [3.4 School Registrater Rates](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#4-school-registration-rate))
 - [3.5 Rural/Urban Register Rate](README.md#ruralurban-school-register-rate)
 - [3.6 Academic Register x Education Expenditure & N° of Homicides](README.md#academic-register-x-education-expenditure--n-of-homicides) 
 
