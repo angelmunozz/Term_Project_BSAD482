@@ -163,3 +163,12 @@ Real Impact:
 # Conclusion
 The causal analysis reveals that an increase in poverty levels has a direct and positive impact on the annual number of murders. Specifically, for every 1% increase in the poverty percentage (measured as % of KPI), there are approximately 0.221 additional murders per year, adjusting for education investment and total students. This effect is robust, as evidenced by the data subset refutation, which shows a minimal variation (from 0.221 to 0.206) with a p-value of 0.78, indicating result stability. In practical terms, a 10% increase in poverty would lead to 2.21 more murders per year per unit of analysis (e.g., province). These findings confirm that poverty is a significant factor contributing to increased violence, supporting the hypothesis that adverse socioeconomic conditions are linked to higher murder rates.
 
+
+
+
+---
+[Background](Background.md)
+
+[Table of Contents](T.Contents.md)
+
+[Data Wrangling Methods](src/Wrangling.md)
