@@ -21,6 +21,8 @@
 ### 5. Conclusion
 - [5.1 Conclustion](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#conclusion) 
 
+### 6. References
+- [6.1 References](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/Background.md#references)
 
 ---
 [Home](README.md)
