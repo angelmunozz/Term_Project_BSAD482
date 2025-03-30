@@ -123,6 +123,7 @@ Poverty levels have a direct effect on murders
 ![(Heat Map](img/heatmap_termproject.png)
 
 Analyzing the heat map, we can observe the following important relationships:
+
 **1. Education Investment:**
 - Shows a strong positive correlation (0.77) with total students, suggesting that higher investment correlates with more registered students
 - Surprisingly, has a high correlation (0.79) with poverty levels, which might indicate that more investment is being directed to areas with greater need
@@ -136,7 +137,7 @@ Analyzing the heat map, we can observe the following important relationships:
 - Has a weak negative correlation (-0.18) with total students, indicating a slight tendency for fewer murders where there are more students
 
 
-This information suggests that although there is investment in education in high-poverty areas, this doesn't necessarily translate into an immediate reduction in violence, possibly due to other unmeasured socioeconomic and external factors not included in this analysis.
+*This information suggests that although there is investment in education in high-poverty areas, this doesn't necessarily translate into an immediate reduction in violence, possibly due to other unmeasured socioeconomic and external factors not included in this analysis.*
 
 ---
 # **Results:** 
