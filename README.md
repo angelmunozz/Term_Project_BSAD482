@@ -59,33 +59,35 @@ Here are the 5 KPIs that will be used to measure the impact of poverty and educa
 ---
 
 # Analysis
+### Crime Rates
 ![Crime Rates](https://github.com/user-attachments/assets/8e9ae190-8058-4342-90c0-2d3d92bb2b8b)
 This chart shows the crime rates. In the left chart, the number of homicides by province in Ecuador between 2019 and 2024 is presented. It can be observed that the provinces with the highest number of homicides are Guayas, Manabí, Esmeraldas, and Pichincha.
 
 In the right chart, the number of prisoners by province from early 2024 to January 2025 is shown. Similarly, it can be noticed that Guayas maintains a high number in both categories, positioning it as the most dangerous province in the country.
 
-
+### Poverty Rates
 ![Poverty Rates](https://github.com/user-attachments/assets/1d51d7f6-0142-4cf6-b53b-64634a339620)
 In the "Poverty Due to Unsatisfied Basic Needs" charts, a decrease in poverty levels can be observed from 2008 to 2024, both nationally and in urban and rural areas. This trend reflects an improvement in economic and social conditions over time, with a progressive reduction in poverty across different regions of the country.
 
+### Education Investment x Homicides
 ![Education Investment   Homicides](https://github.com/user-attachments/assets/af84b65a-ba3d-465f-a048-5acee1e59df0)
 This chart shows the investment in education in Ecuador between 2009 and 2023, along with the total number of homicides between 2019 and 2023. In the left chart, we can observe how the investment in education has gradually decreased since 2010, reaching its lowest point in 2023 at 9%. Over this period, the percentage of investment in education dropped from 13.17% in 2009 to 9% in 2023.
 
 In the right chart, the number of homicides over the last five years is presented, with a clear increase. In 2019, homicides were around 1,187, while in 2023, they reached 8,581. This trend shows an interesting correlation: as investment in education decreased, the number of homicides increased significantly. This could suggest that the lack of investment in education is linked to the rise in violence and crime in the country, as education is a key factor in crime prevention and improving social cohesion.
 
-
+### School Register Rate
 ![School Register Rate](https://github.com/user-attachments/assets/5b87bba1-bdbb-4247-8ddc-d3a3779cd097)
 In the "School Registration Rate" chart, the total number of academic registrations in Ecuador from 2009 to 2023 is shown. A continuous decrease in the number of registrations can be observed, starting with 27,651 new students registered in 2009, and reaching 16,140 in 2023. The lowest point during this period occurred in 2022, with only 14,839 registrations.
 
 In the chart on the right, the number of academic registrations by province from 2009 to 2023 is shown. A decline in the number of registrations can be noticed in provinces like Guayas, Manabí, and Pichincha, which are also the most populated in the country and, coincidentally, the provinces with the highest rates of violence.
 
-
+### Rural/Urban School Register Rate
 ![Rural   Urban School Register Rate](https://github.com/user-attachments/assets/6e7eba63-b601-402c-827c-cc15c197a301)
 In the "School Registration Rate by Urban & Rural Area" chart, we can observe in more detail the number of new academic registrations by rural and urban sectors. It is important to mention that the urban sector has a larger population than the rural sector. Despite this, it is in the urban sector where the most significant decrease in the number of students has been recorded. The number of registrations in the urban sector decreased from 15,984 in 2009 to 7,571 in 2022, and then slightly increased to 8,663 in 2023.
 
 On the other hand, the rural sector also experienced a decrease in the number of registrations, but it was not as sharp compared to the urban sector.
 
-
+### Academic Register x Education Expenditure & N° of Homicides
 ![Academic Registers, Education Expenditure   N of Homicides](https://github.com/user-attachments/assets/9178bf61-9d9a-4505-8ad3-c897ea3117c6)
 The graphs show a decreasing trend in academic registrations in Ecuador from 2009 to 2023, with a steeper decline starting in 2014. Specifically, between 2019 and 2023, a continued decrease is observed, suggesting potential issues in school access and retention. This decline coincides with a decrease in education expenditure and an increase in violence, potentially indicating a relationship between the lack of educational opportunities and rising crime.  Furthermore, the presence of drug trafficking in Ecuador exacerbates this issue, as young people who lack access to education and face limited opportunities may be more susceptible to recruitment by criminal organizations. This creates a dangerous cycle where decreased educational engagement fuels the growth of illicit activities and further destabilizes the country.
 
