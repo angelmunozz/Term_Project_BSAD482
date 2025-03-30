@@ -34,3 +34,11 @@ This study is important because it will help understand the connection between p
 <a id="1">[4]</a> World Bank Group. (n.d.). *Intentional homicides (per 100,000 people) - Ecuador*. The World Bank. Retrieved February 17, 2025, from [https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015](https://data.worldbank.org/indicator/VC.IHR.PSRC.P5?end=2021&locations=EC&start=2015)  
 
 <a id="1">[5]</a> Datos Abiertos. (n.d). *Registro Administrativo historico*. Ministerio de Educacion. Retrieved February 26, 2025, from [https://datosabiertos.gob.ec/dataset/registro-de-matricula-mineduc/resource/59db7bb5-eb6b-4a7a-a06a-d1f93ac7506a](https://datosabiertos.gob.ec/dataset/registro-de-matricula-mineduc/resource/59db7bb5-eb6b-4a7a-a06a-d1f93ac7506a)
+
+---
+[Home](README.md)
+
+[Table of Contents](T.Contents.md)
+
+[Data Wrangling Methods](src/Wrangling.md)
+
