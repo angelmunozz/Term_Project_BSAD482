@@ -2,6 +2,7 @@
 
 ### 1. Introduction
 - [1.1 Executive Summary](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#executive-summary)
+- [1.2  Context & Importance of the study](Background.md)
 
 ### 2. Research Objectives and Methodology
 - [2.1 Key Performance Indicators (KPIs)](https://github.com/angelmunozz/Term_Project_BSAD482/blob/main/README.md#key-performance-indicators-kpis)
